@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.notification-container {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+
+  box-shadow: 0px 0px 0px 4px #bfbfbf;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.cross-mark {
+  text-align: right;
+  align-self: flex-end;
+  height: 50px;
+  cursor: pointer;
+}
